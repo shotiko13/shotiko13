@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shota!
 
-[![Linkedin](https://img.shields.io/badge/-Shota-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shota/)](https://www.linkedin.com/in/shota/)
-[![GitHub Shota](https://img.shields.io/github/followers/shota?label=follow&style=social)](https://github.com/shota)
+[![Linkedin](https://img.shields.io/badge/-Shota-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shota-vashakmadze/)](https://www.linkedin.com/in/shota-vashakmadze/)
+[![GitHub Shota](https://img.shields.io/github/followers/shota?label=follow&style=social)](https://github.com/shotiko13)
 ![Profile Views](https://views.whatilearened.today/views/github/shota/views.svg)
 
 📧 Contact me: [shotov1303@gmail.com](mailto:shotov1303@gmail.com)
